@@ -18,6 +18,13 @@
 <br>
 <br>
 
+<!-- Random Dev Joke -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=chartreuse-dark&hideBorder=true&bgColor=0D1117&textColor=00FF41" alt="Joke" />
+</p>
+
+<br>
+
 <img src="./debian.png" width="100px" />
 &nbsp;&nbsp;
 <img src="./xxx.gif" width="120px" />
@@ -134,12 +141,25 @@ $ tree ~/skills/
 
 <div align="center">
 
+<!-- GitHub Trophies -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chunyujin295&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=FFFFFF&amp;ring_color=00FF41&amp;count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunyujin295&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chunyujin295&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;row=2&amp;column=4" alt="GitHub Trophies" />
 </p>
 
 <br>
+
+<!-- 3D Contribution Graph -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chunyujin295/chunyujin295/profile-3d-contrib/profile-3d-contrib.svg" alt="3D Contrib" />
+</p>
+
+<br>
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chunyujin295&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00FF41&amp;line=00FF41&amp;point=FFFFFF" alt="Activity Graph" />
+</p>
+
 <br>
 
 <p align="center">
@@ -155,6 +175,25 @@ $ tree ~/skills/
 </picture>
 
 </div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<div align="center">
+
+## :scroll: THE CIPHER
+
+</div>
+
+<br>
+
+<!-- Random Dev Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=chartreuse-dark&amp;border=true&amp;bg_color=0D1117&amp;quoteColor=00FF41&amp;authorColor=00D4FF" alt="Random Quote" />
+</p>
 
 <br>
 
