@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3,4,5,6,10,15,20,24,30&height=200&section=header&text=chunyujin295&fontSize=60&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=$%20root@kali%20~%23%20cat%20/etc/motd&descSize=14&descAlignY=55&fontAlign=80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3,4,5,6,10,15,20,24,30&height=200&section=header&text=chunyujin295&fontSize=60&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=$%20root@kali%20~%23%20cat%20/etc/motd&descSize=14&descAlignY=55&fontAlign=50" />
 </picture>
 
 <br>
@@ -17,7 +17,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
@@ -85,7 +85,7 @@ $ tree ~/skills/
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
@@ -111,7 +111,7 @@ $ tree ~/skills/
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
@@ -125,10 +125,10 @@ $ tree ~/skills/
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chunyujin295&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunyujin295&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
-</a>
+</p>
 
 <br>
 <br>
@@ -149,7 +149,7 @@ $ tree ~/skills/
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
@@ -167,7 +167,7 @@ $ tree ~/skills/
   <td align="center" width="380" valign="top">
 
 <a href="https://bellard.org/">
-  <img src="https://ui-avatars.com/api/?name=Fabrice+Bellard&size=120&background=0D1117&color=00FF41&bold=true&font-size=0.4&length=2&rounded=true" width="90px" />
+  <img src="./Fabrice%20Bellard.jpeg" width="90px" style="border-radius: 50%; border: 2px solid #00FF41; object-fit: cover;" />
 </a>
 
 ### Fabrice Bellard
@@ -215,7 +215,7 @@ Creator of **nob.h**, **boomer**, **pinpog**, **nothing**
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
