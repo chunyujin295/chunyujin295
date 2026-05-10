@@ -135,15 +135,15 @@ $ tree ~/skills/
 <div align="center">
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chunyujin295&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunyujin295&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chunyujin295&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=FFFFFF&amp;ring_color=00FF41&amp;count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chunyujin295&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 <br>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunyujin295&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=FFFFFF&sideLabels=00FF41&sideNums=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunyujin295&amp;theme=chartreuse-dark&amp;hide_border=true&amp;background=0D1117&amp;stroke=00FF41&amp;ring=00FF41&amp;fire=00FF41&amp;currStreakLabel=00FF41&amp;currStreakNum=FFFFFF&amp;sideLabels=00FF41&amp;sideNums=FFFFFF" alt="GitHub Streak" />
 </p>
 
 <br>
