@@ -15,6 +15,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=chunyujin295&color=00FF41&style=flat-square&label=VISITORS" />
 
+<br>
+<br>
+
+<img src="./debian.png" width="100px" />
+&nbsp;&nbsp;
+<img src="./xxx.gif" width="120px" />
+
+<br>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
