@@ -7,6 +7,11 @@
 
 <br>
 
+<img src="https://github.com/chunyujin295.png" width="100px" style="border-radius: 50%; border: 2px solid #00FF41;" />
+
+<br>
+<br>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=$+whoami;%3E+Systems+%7C+Algorithms+%7C+Low-Level;$+sudo+make+it+work;%3E+There+is+no+spoon.;$+./break_and_fix.sh;%3E+HACK+THE+PLANET" alt="Typing SVG" />
 </a>
@@ -14,6 +19,12 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=chunyujin295&color=00FF41&style=flat-square&label=VISITORS" />
+
+<br>
+
+<a href="https://github.com/ff-283">
+  <img src="https://img.shields.io/badge/ALT-ff--283-00FF41?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="ff-283" />
+</a>
 
 <br>
 <br>
