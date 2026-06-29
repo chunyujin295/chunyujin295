@@ -269,6 +269,27 @@ Creator of **nob.h**, **boomer**, **pinpog**, **nothing**
 
   </td>
 </tr>
+<tr>
+  <td align="center" colspan="2" valign="top">
+
+<a href="https://zh.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E8%81%B0">
+  <img src="./Iwata Satoru.jpeg" width="90px" style="border-radius: 50%; border: 2px solid #00FF41; object-fit: cover;" />
+</a>
+
+### 岩田聪 <sub><i>(Satoru Iwata)</i></sub>
+
+<sub>
+任天堂第四任社长，用代码与匠心重新定义游戏的本质。
+</sub>
+
+<br>
+
+<a href="https://zh.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E8%81%B0">
+  <img src="https://img.shields.io/badge/🌐_Wikipedia-岩田聪-00FF41?style=for-the-badge&logo=wikipedia&logoColor=white&labelColor=0D1117" />
+</a>
+
+  </td>
+</tr>
 </table>
 
 </div>
