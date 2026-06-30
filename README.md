@@ -1,5 +1,3 @@
-<div style="background: linear-gradient(rgba(13,17,23,0.85), rgba(13,17,23,0.85)), url('./Zelda.jpg') center/cover no-repeat;">
-
 <div align="center">
 
 <picture>
@@ -45,9 +43,7 @@
 
 <br>
 
-</div>
 
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -329,6 +325,10 @@ Creator of nob.h, boomer, pinpog, nothing
 <br>
 
 <div align="center">
+
+<img src="./Zelda.jpg" />
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3,4,5,6,10,15,20,24,30&height=100&section=footer&fontSize=0" />
 
