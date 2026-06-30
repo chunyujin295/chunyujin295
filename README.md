@@ -309,7 +309,7 @@ Creator of nob.h, boomer, pinpog, nothing
 </a>
 &nbsp;
 <a href="https://www.stardewvalley.net/">
-  <img src="https://img.shields.io/badge/🌐_官网-Stardew_Valley-00FF41?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🌐_Website-Stardew_Valley-00FF41?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" />
 </a>
 
   </td>
