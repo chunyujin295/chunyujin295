@@ -1,3 +1,5 @@
+<div style="background: linear-gradient(rgba(13,17,23,0.85), rgba(13,17,23,0.85)), url('./Zelda.jpg') center/cover no-repeat;">
+
 <div align="center">
 
 <picture>
@@ -42,6 +44,8 @@
 <img src="./xxx.gif" width="120px" />
 
 <br>
+
+</div>
 
 </div>
 
