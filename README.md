@@ -327,14 +327,3 @@ Creator of nob.h, boomer, pinpog, nothing
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3,4,5,6,10,15,20,24,30&height=100&section=footer&fontSize=0" />
-
-<br>
-
-<sub>01001000 01100001 01100011 01101011 00100000 01010100 01101000 01100101 00100000 01010000 01101100 01100001 01101110 01100101 01110100</sub>
-
-</div>
