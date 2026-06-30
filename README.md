@@ -54,12 +54,13 @@
 <br>
 
 <pre align="center">
-  ██████╗██╗  ██╗██╗   ██╗███╗   ██╗██╗   ██╗     ██╗██╗███╗   ██╗██████╗  █████╗  █████╗
- ██╔════╝██║  ██║██║   ██║████╗  ██║╚██╗ ██╔╝     ██║██║████╗  ██║╚════██╗██╔══██╗██╔══██╗
- ██║     ███████║██║   ██║██╔██╗ ██║ ╚████╔╝      ██║██║██╔██╗ ██║ █████╔╝╚██████║╚██████║
- ██║     ██╔══██║██║   ██║██║╚██╗██║  ╚██╔╝  ██   ██║██║██║╚██╗██║██╔═══╝  ╚═══██║ ╚═══██║
- ╚██████╗██║  ██║╚██████╔╝██║ ╚████║   ██║   ╚█████╔╝██║██║ ╚████║███████╗ █████╔╝ █████╔╝
-  ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝    ╚════╝ ╚═╝╚═╝  ╚═══╝╚══════╝ ╚════╝  ╚════╝
+ ██╗   ██╗██╗   ██╗     ██╗██╗███╗   ██╗██████╗  █████╗ ███████╗
+╚██╗ ██╔╝██║   ██║     ██║██║████╗  ██║╚════██╗██╔══██╗██╔════╝
+ ╚████╔╝ ██║   ██║     ██║██║██╔██╗ ██║ █████╔╝╚██████║███████╗
+  ╚██╔╝  ██║   ██║██   ██║██║██║╚██╗██║██╔═══╝  ╚═══██║╚════██║
+   ██║   ╚██████╔╝╚█████╔╝██║██║ ╚████║███████╗ █████╔╝███████║
+   ╚═╝    ╚═════╝  ╚════╝ ╚═╝╚═╝  ╚═══╝╚══════╝ ╚════╝ ╚══════╝
+                                                               
 </pre>
 
 <br>
@@ -131,13 +132,13 @@ $ tree ~/skills/
 
 <div align="center">
 
-| **:crossed_swords: Core** | **:toolbox: Tools** | **:brain: Knowledge** |
-|:---:|:---:|:---:|
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Reverse Eng](https://img.shields.io/badge/Reverse_Eng-FF0000?style=for-the-badge&logo=windowsterminal&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) | ![Compilers](https://img.shields.io/badge/Compilers-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white) |
-| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) | ![Embedded](https://img.shields.io/badge/Embedded-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Networking](https://img.shields.io/badge/Networking-FF6C37?style=for-the-badge&logo=wireshark&logoColor=white) |
-| ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![OS Internals](https://img.shields.io/badge/OS_Internals-000000?style=for-the-badge&logo=linux&logoColor=white) |
+|                                       **:crossed_swords: Core**                                       |                                          **:toolbox: Tools**                                          |                                                  **:brain: Knowledge**                                                   |
+| :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
+|        ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)         |  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   | ![Reverse Eng](https://img.shields.io/badge/Reverse_Eng-FF0000?style=for-the-badge&logo=windowsterminal&logoColor=white) |
+|   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)    | ![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) |      ![Compilers](https://img.shields.io/badge/Compilers-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white)      |
+|    ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)    | ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) |        ![Embedded](https://img.shields.io/badge/Embedded-00979D?style=for-the-badge&logo=arduino&logoColor=white)        |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |     ![Networking](https://img.shields.io/badge/Networking-FF6C37?style=for-the-badge&logo=wireshark&logoColor=white)     |
+| ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |     ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)      |     ![OS Internals](https://img.shields.io/badge/OS_Internals-000000?style=for-the-badge&logo=linux&logoColor=white)     |
 
 </div>
 
