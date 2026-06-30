@@ -290,6 +290,32 @@ Creator of **nob.h**, **boomer**, **pinpog**, **nothing**
 
   </td>
 </tr>
+<tr>
+  <td align="center" colspan="2" valign="top">
+
+<a href="https://github.com/ConcernedApe">
+  <img src="./Stardew Valley.png" width="90px" style="border-radius: 50%; border: 2px solid #00FF41; object-fit: cover;" />
+</a>
+
+### Eric Barone <sub><i>(ConcernedApe)</i></sub>
+
+<sub>
+一个人，四年时间，编程、美术、音乐全部手作，用热爱浇灌出星露谷的每一颗像素。<br>
+免费实用主义
+</sub>
+
+<br>
+
+<a href="https://github.com/ConcernedApe">
+  <img src="https://img.shields.io/badge/GitHub-ConcernedApe-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</a>
+&nbsp;
+<a href="https://www.stardewvalley.net/">
+  <img src="https://img.shields.io/badge/🌐_官网-Stardew_Valley-00FF41?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" />
+</a>
+
+  </td>
+</tr>
 </table>
 
 </div>
