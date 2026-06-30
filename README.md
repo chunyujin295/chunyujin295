@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./Zelda.jpg" />
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3,4,5,6,10,15,20,24,30&height=200&section=header&text=chunyujin295&fontSize=60&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=$%20root@kali%20~%23%20cat%20/etc/motd&descSize=14&descAlignY=55&fontAlign=50" />
@@ -325,10 +329,6 @@ Creator of nob.h, boomer, pinpog, nothing
 <br>
 
 <div align="center">
-
-<img src="./Zelda.jpg" />
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3,4,5,6,10,15,20,24,30&height=100&section=footer&fontSize=0" />
 
