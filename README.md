@@ -291,7 +291,7 @@ Creator of **nob.h**, **boomer**, **pinpog**, **nothing**
   </td>
 </tr>
 <tr>
-  <td align="center" colspan="2" valign="top">
+  <td align="center" colspan="2" valign="top" style="background: linear-gradient(rgba(13,17,23,0.82), rgba(13,17,23,0.82)), url('./Stardew%20Valley-bk.jpg') center/auto no-repeat;">
 
 <a href="https://github.com/ConcernedApe">
   <img src="./Stardew Valley.png" width="90px" style="border-radius: 50%; border: 2px solid #00FF41; object-fit: cover;" />
