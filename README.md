@@ -158,19 +158,6 @@ $ tree ~/skills/
 
 <div align="center">
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chunyujin295&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
-<br>
-
-<!-- 3D Contribution Graph -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chunyujin295/chunyujin295/profile-3d-contrib/profile-3d-contrib.svg" alt="3D Contrib" />
-</p>
-
-<br>
 
 <!-- Contribution Activity Graph -->
 <p align="center">
