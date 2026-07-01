@@ -160,7 +160,7 @@ $ tree ~/skills/
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chunyujin295&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;row=2&amp;column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chunyujin295&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 <br>
@@ -174,13 +174,13 @@ $ tree ~/skills/
 
 <!-- Contribution Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chunyujin295&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00FF41&amp;line=00FF41&amp;point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chunyujin295&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF" alt="Activity Graph" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunyujin295&amp;theme=chartreuse-dark&amp;hide_border=true&amp;background=0D1117&amp;stroke=00FF41&amp;ring=00FF41&amp;fire=00FF41&amp;currStreakLabel=00FF41&amp;currStreakNum=FFFFFF&amp;sideLabels=00FF41&amp;sideNums=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chunyujin295&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&currStreakNum=FFFFFF&sideLabels=00FF41&sideNums=FFFFFF" alt="GitHub Streak" />
 </p>
 
 <br>
