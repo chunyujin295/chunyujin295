@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "Bash(curl -sI \"https://github-profile-trophy.vercel.app/?username=chunyujin295&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4\")",
+      "Bash(curl -sI \"https://raw.githubusercontent.com/chunyujin295/chunyujin295/profile-3d-contrib/profile-3d-contrib.svg\")",
+      "Bash(curl -s \"https://api.github.com/repos/chunyujin295/chunyujin295/git/trees/profile-3d-contrib?recursive=1\")",
+      "Bash(curl *)"
     ]
   }
 }
