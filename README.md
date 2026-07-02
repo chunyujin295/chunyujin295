@@ -202,7 +202,7 @@ $ tree ~/skills/
 
 <!-- Random Dev Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=chartreuse-dark&amp;border=true&amp;bg_color=0D1117&amp;quoteColor=00FF41&amp;authorColor=00D4FF" alt="Random Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&border=true&bg_color=0D1117&quoteColor=00FF41&authorColor=00D4FF" alt="Random Quote" />
 </p>
 
 <br>
