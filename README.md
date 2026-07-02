@@ -150,6 +150,56 @@ $ tree ~/skills/
 
 <div align="center">
 
+## :horse: PONYTAIL
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/DietrichGebert/ponytail">
+  <img src="./ponytail-logo.png" width="140px" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/DietrichGebert/ponytail">
+  <img src="./ponytail-waitlist-banner.png" width="600px" />
+</a>
+
+<br>
+<br>
+
+> *"The best code is the code never written."*
+> — **Ponytail**
+
+<sub>
+Make your AI agent think like the laziest senior dev in the room.<br>
+54% less code. 22% fewer tokens. 100% security.
+</sub>
+
+<br>
+
+<a href="https://github.com/DietrichGebert/ponytail">
+  <img src="https://img.shields.io/badge/GitHub-DietrichGebert/ponytail-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+</a>
+&nbsp;
+<a href="https://github.com/DietrichGebert/ponytail">
+  <img src="https://img.shields.io/badge/🌐_Website-ponytail-00FF41?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" />
+</a>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<div align="center">
+
 ## :satellite: THE DATA STREAM
 
 </div>
