@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Zelda.jpg" />
+<img src="./img/Zelda.jpg" />
 
 <br>
 
@@ -41,9 +41,9 @@
 
 <br>
 
-<img src="./debian.png" width="100px" />
+<img src="./img/debian.png" width="100px" />
 &nbsp;&nbsp;
-<img src="./xxx.gif" width="120px" />
+<img src="./img/xxx.gif" width="120px" />
 
 <br>
 
@@ -225,7 +225,7 @@ $ tree ~/skills/
   <td align="center" width="380" valign="top">
 
 <a href="https://bellard.org/">
-  <img src="./Fabrice%20Bellard.jpeg" width="90px" style="border-radius: 50%; border: 2px solid #00FF41; object-fit: cover;" />
+  <img src="./img/Fabrice%20Bellard.jpeg" width="90px" style="border-radius: 50%; border: 2px solid #00FF41; object-fit: cover;" />
 </a>
 
 ### Fabrice Bellard
@@ -271,7 +271,7 @@ Creator of nob.h, boomer, pinpog, nothing
   <td align="center" width="380" valign="top">
 
 <a href="https://zh.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E8%81%B0">
-  <img src="./Iwata Satoru.jpeg" width="90px" style="border-radius: 50%; border: 2px solid #00FF41; object-fit: cover;" />
+  <img src="./img/Iwata Satoru.jpeg" width="90px" style="border-radius: 50%; border: 2px solid #00FF41; object-fit: cover;" />
 </a>
 
 ### 岩田聪 <sub><i>(Satoru Iwata)</i></sub>
@@ -287,10 +287,10 @@ Creator of nob.h, boomer, pinpog, nothing
 </a>
 
   </td>
-  <td align="center" width="380" valign="top" style="background: linear-gradient(rgba(13,17,23,0.82), rgba(13,17,23,0.82)), url('./Stardew%20Valley-bk.jpg') center/auto no-repeat;">
+  <td align="center" width="380" valign="top" style="background: linear-gradient(rgba(13,17,23,0.82), rgba(13,17,23,0.82)), url('./img/Stardew%20Valley-bk.jpg') center/auto no-repeat;">
 
 <a href="https://github.com/ConcernedApe">
-  <img src="./Stardew Valley.png" width="90px" style="border-radius: 50%; border: 2px solid #00FF41; object-fit: cover;" />
+  <img src="./img/Stardew Valley.png" width="90px" style="border-radius: 50%; border: 2px solid #00FF41; object-fit: cover;" />
 </a>
 
 ### Eric Barone <sub><i>(ConcernedApe)</i></sub>
@@ -333,14 +333,14 @@ Creator of nob.h, boomer, pinpog, nothing
 <div align="center">
 
 <a href="https://github.com/DietrichGebert/ponytail">
-  <img src="./ponytail-logo.png" width="140px" />
+  <img src="./img/ponytail-logo.png" width="140px" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/DietrichGebert/ponytail">
-  <img src="./ponytail-waitlist-banner.png" width="600px" />
+  <img src="./img/ponytail-waitlist-banner.png" width="600px" />
 </a>
 
 <br>
